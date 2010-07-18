@@ -1,0 +1,28 @@
+/*
+ * ...Theme
+ * http://webidsupport.com/
+ *
+ * Copyright (c) 2010 Chris Dickenson
+ * Released under the GPL license.
+ */
+ 
+.info-box {
+ 	background-color: #D1ECF7;
+	color:#11689E;
+	border-bottom: 1px solid #BCDFEF;
+}
+.error-box {
+ 	background-color: #FAD0D0;
+	color: #B01717;
+	border-bottom: 1px solid #F6ABAB;
+}
+.warning-box {
+ 	background-color: #FFF6BF;
+	color: #957210;
+	border-bottom: 1px solid #FCEB77;
+}
+.success-box {
+ 	background-color: #E5F8CE;
+	color: #62B548;
+	border-bottom: 1px solid #D0F1A6;
+}
